@@ -48,7 +48,7 @@ react-frontend uses Semantic UI React as CSS-styled framework.
 
 Clone the repository:
 
-<pre>git clone https://github.com/Umeshmalik/Hobby-app.git/pre>
+<pre>git clone https://github.com/Umeshmalik/Hobby-app.git </pre>
 
 Navigate to the newly created folder:
 
