@@ -22,7 +22,7 @@ Spring Boot Web Java backend application that exposes a REST API to
 manage hobbies. Its secured endpoints can just be accessed if an access
 token (JWT) is provided.
 
-spring-backend stores its data in a MySql database.
+spring-backend stores its data in a PostgresSql database.
 
 spring-backend has the following endpoints
 
@@ -48,7 +48,7 @@ react-frontend uses Semantic UI React as CSS-styled framework.
 
 Clone the repository:
 
-<pre>git clone https://github.com/purshink/ReactJS-Spring-Boot-Full-Stack-App.git</pre>
+<pre>git clone https://github.com/Umeshmalik/Hobby-app.git/pre>
 
 Navigate to the newly created folder:
 
